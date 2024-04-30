@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-jx3tools-flyneverride",
+  "description": "收录零散小工具的合集。为减少后续麻烦，所有功能需要自行填入大佬们公开的接口及鉴权。",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "4.17.4"
+  }
+}
