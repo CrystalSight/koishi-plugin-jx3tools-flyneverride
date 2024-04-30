@@ -1,7 +1,10 @@
 {
   "name": "koishi-plugin-jx3tools-flyneverride",
-  "description": "收录零散小工具的合集。为减少后续麻烦，所有功能需要自行填入大佬们公开的接口及鉴权。",
+  "description": "收录零散小工具。为消除大佬们是否公开接口的影响，所有功能需自行填入接口地址及鉴权。详情见主页",
   "version": "0.0.1",
+  "contributors": [
+    "flyneverride <13645413454@126.com>"
+  ],
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,14 +12,19 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "homepage": "https://github.com/CrystalSight/koishi-plugin-jx3-flyneverride.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystalSight/koishi-plugin-jx3-flyneverride.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "JX3",
+    "剑网3"
   ],
-  "devDependencies": {},
   "peerDependencies": {
-    "koishi": "4.17.4"
+    "koishi": "4.17.5"
   }
 }
