@@ -6,7 +6,10 @@
 
 目前加入功能：<br>
 ※LLM 阿瓦达啃大瓜之一个基于 ChatGPT 的贴吧树洞课代表 **by 受姐姐**<br>
-链接：https://www.jx3box.com/tool/76390 (2024-04-30生效)<br>
+链接：https://www.jx3box.com/tool/76390 (2024-05-07生效)<br>
 
+**v0.0.2**<br>
+规范ctx.database数据库功能依赖声明<br>
+更正主页地址（我是笨蛋<br>
 **v0.0.1**<br>
 加入受姐姐的贴吧树洞课代表API<br>

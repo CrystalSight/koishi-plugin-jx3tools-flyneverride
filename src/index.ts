@@ -4,6 +4,11 @@ import * as avadaKedavra from './avadaKedavra'
 export const name = 'jx3tools-flyneverride'
 export const usage = '收录零散小工具。为消除大佬们是否公开接口的影响，所有功能需自行填入接口地址及鉴权。详情见主页'
 
+export const inject = {
+  required: ['database']
+}
+
+
 export interface Config {  //配置界面复杂，不会写接口类型，开摆！
   [x: string]: any;
 }
